@@ -1,2 +1,2 @@
 
-Landing page for me!
+Landing page.
